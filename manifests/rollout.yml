@@ -16,7 +16,7 @@ spec:
         - setWeight: 100
   selector:
     matchLabels:
-      app: go-simple-webserver
+      app: go-simple-webserverrrr
   template:
     metadata:
       labels:
